@@ -14,5 +14,5 @@ Thx to [Çelen Naz!](https://github.com/celennazotken)
 <p class="text-center">
 {% include elements/button.html link="https://www.tandfonline.com/doi/full/10.1080/0013791X.2019.1636440?scroll=top&needAccess=true" text="See More" %}
   
-{% include elements/button.html link="https://github.com/koftezz/koftezz.github.io/blob/master/assets/10.1080%400013791X.2019.1636440.pdf" download text="Download" %}
+{% include elements/button.html link="https://github.com/koftezz/koftezz.github.io/blob/master/assets/10.1080%400013791X.2019.1636440.pdf" text="Download" %}
 </p>
