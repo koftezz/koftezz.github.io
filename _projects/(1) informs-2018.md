@@ -15,9 +15,11 @@ Developed a heuristic-based methodology, called GRASP & SOLVER, to solve the ext
 Accomplished to be one of the 8 finalist teams to participate at the 
 [INFORMS Analytics Conference](https://connect.informs.org/oratc/past-competitions/2018/home2018) in Baltimore, Maryland, April 15-17. Made a portfolio optimization for a given complex problem that minimized the tradeoff between the risk and return, which extends the Nobel prized Markowitz portfolio theory problem to real life practice. Analyzed ten-year 4 weekly periods using S&P 500 data and created a unique portfolio for each period that is most profitable in terms of expected returns and other KPI’s.
 
-Video can be find below: {% include elements/video.html id="-m4EebM8fwc" %}
+Video can be find below:
 
-![alt text](https://imgur.com/a/tFzd4Hy "Team Image")
+{% include elements/video.html id="-m4EebM8fwc" %}
+
+![Team Photo](https://imgur.com/a/tFzd4Hy "Team Image")
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/koftezz" text="Learn More" %}
