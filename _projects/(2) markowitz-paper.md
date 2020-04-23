@@ -3,6 +3,7 @@ layout: post
 title: Portfolio Optimization
 name: An extension to the classical mean–variance portfolio optimization model
 tags: [markowitz, heuristic, mip, gurobi]
+image: https://images.thinkadvisor.com/contrib/content/uploads/sites/415/2019/04/Markowitz_Harry_BW_MI.jpg
 description: This paper suggests a solution methodology for an extended portfolio optimization 
 ---
 
