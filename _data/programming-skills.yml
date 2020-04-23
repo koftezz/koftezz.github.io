@@ -10,6 +10,6 @@
   percentage: 70
   color: dark
   
-- name: Tableau
-  percentage: 70
+- name: Matlab
+  percentage: 60
   color: secondary
