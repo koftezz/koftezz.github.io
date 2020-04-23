@@ -1,20 +1,18 @@
 ---
-name: The Movies Project
-tools: [C#, XML, WPF]
-image: https://www.sketchappsources.com/resources/source-image/movie-badges-jurajjurik.png
-description: This project has an individual showcase page, not just a direct link to the project site or repo. Now you have more space to describe your awesome project!
+name: An extension to the classical mean–variance portfolio optimization model
+tags: [Markowitz, Heuristic, MIP, Gurobi]
+description: This paper suggests a solution methodology for an extended portfolio optimization 
 ---
 
-# The Movies Project
+# Abstract
 
-The Movies Project is something like **Netflix**, the only difference is that **it's not real**! It doesn't exist! I just created it to demonstrate how the **showcase** page looks like and how you can write whatever you want with full markdown support.
+The purpose of this study is to find a portfolio that maximizes the risk-adjusted returns subject to constraints frequently faced during portfolio management by extending the classical Markowitz mean–variance portfolio optimization model. We propose a new two-step heuristic approach, GRASP & SOLVER, that evaluates the desirability of an asset by combining several properties about it into a single parameter. Using a real-life data set, we conduct a simulation study to compare our solution to a benchmark (S&P 500 index). We find that our method generates solutions satisfying nearly all of the constraints within reasonable computational time (under an hour), at the expense of a 13% reduction in the annual return of the portfolio, highlighting the effect of introducing these practice-based constraints.
 
-![preview](https://www.sketchappsources.com/resources/source-image/we-were-soldiers-landing-page-dbruggisser.jpg)
 
-## Search Movies
-
-![search](https://www.sketchappsources.com/resources/source-image/microsoft-windows-10-virtual-keyboard-diogo-sousa.png)
+Thx to [Çelen Naz!](https://github.com/celennazotken)
 
 <p class="text-center">
-{% include elements/button.html link="https://github.com/YoussefRaafatNasry/portfolYOU" text="Learn More" %}
+{% include elements/button.html link="https://www.tandfonline.com/doi/full/10.1080/0013791X.2019.1636440?scroll=top&needAccess=true" text="See More" %}
+  
+{% include elements/button.html link="https://github.com/koftezz/koftezz.github.io/blob/master/assets/10.1080%400013791X.2019.1636440.pdf" download text="Download" %}
 </p>
