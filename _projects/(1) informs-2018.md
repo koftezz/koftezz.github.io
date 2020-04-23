@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Portfolio Optimization
-name: Markowitz Portfolio Optimization
+title: Markowitz Portfolio Optimization
+name: INFORMS O.R. & Analytics Student Team Competition
 tags: [optimization, portfolio, markowitz]
 image: https://miro.medium.com/max/3840/1*Mgor3nTCljGE_OwXPNCIbw.jpeg
 description: Solving portfolio that maximizes the risk-adjusted returns by extending the classical Markowitz mean–variance model.
