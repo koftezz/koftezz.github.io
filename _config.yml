@@ -11,6 +11,7 @@ remote_theme        : YoussefRaafatNasry/portfolYOU
 plugins:
   - jemoji
 
+analytics: UA-164380080-1
 
 ### Navbar Settings ###
 nav_exclude:                                            # The following paths are excluded from navbar
