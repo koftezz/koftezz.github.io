@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /
+permalink: /https://koftezz.github.io/
 ---
 
 {% include landing.html %}
