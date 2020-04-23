@@ -4,5 +4,5 @@ title: Portfolio Optimization
 ---
 name: Markowitz Portfolio Optimization
 tools: [optimization, portfolio, markowitz, gurobi]
-image: image url or path here.
+image: https://miro.medium.com/max/3840/1*Mgor3nTCljGE_OwXPNCIbw.jpeg
 description: Write project description here.
