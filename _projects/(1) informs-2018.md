@@ -19,7 +19,7 @@ Video can be find below:
 
 {% include elements/video.html id="-m4EebM8fwc" %}
 
-![Team Photo](https://imgur.com/a/tFzd4Hy "Team Image")
+{% include elements/figure.html image="https://imgur.com/a/tFzd4Hy" caption="Team Photo" %}
 
 <p class="text-center">
 {% include elements/button.html link="https://github.com/koftezz" text="Learn More" %}
