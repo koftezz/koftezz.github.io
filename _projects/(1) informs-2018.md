@@ -9,9 +9,11 @@ description: Solving portfolio that maximizes the risk-adjusted returns by exten
 
 # The Markowitz Portfolio Optimization
 
-Developed a heuristic-based methodology, called GRASP & SOLVER, to solve the extended the [classical Markowitz model] (https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x ) with three additional constraints: upper and lowerlimits on the cardinality, active share, and tracking error.
+Developed a heuristic-based methodology, called GRASP & SOLVER, to solve the extended the
+[classical Markowitz model](https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-6261.1952.tb01525.x ) with three additional constraints: upper and lowerlimits on the cardinality, active share, and tracking error.
 
-Accomplished to be one of the 8 finalist teams to participate at the [INFORMS Analytics Conference] (https://connect.informs.org/oratc/past-competitions/2018/home2018) in Baltimore, Maryland, April 15-17. Made a portfolio optimization for a given complex problem that minimized the tradeoff between the risk and return, which extends the Nobel prized Markowitz portfolio theory problem to real life practice. Analyzed ten-year 4 weekly periods using S&P 500 data and created a unique portfolio for each period that is most profitable in terms of expected returns and other KPI’s.
+Accomplished to be one of the 8 finalist teams to participate at the 
+[INFORMS Analytics Conference](https://connect.informs.org/oratc/past-competitions/2018/home2018) in Baltimore, Maryland, April 15-17. Made a portfolio optimization for a given complex problem that minimized the tradeoff between the risk and return, which extends the Nobel prized Markowitz portfolio theory problem to real life practice. Analyzed ten-year 4 weekly periods using S&P 500 data and created a unique portfolio for each period that is most profitable in terms of expected returns and other KPI’s.
 
 Video can be find below: {% include elements/video.html id="-m4EebM8fwc" %}
 
