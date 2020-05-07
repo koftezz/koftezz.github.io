@@ -1,15 +1,15 @@
 - name: SQL
-  percentage: 70
+  percentage:
   color: danger
 
 - name: R
-  percentage: 80
+  percentage:
   color:
 
 - name: Python
-  percentage: 70
+  percentage:
   color: dark
   
 - name: Matlab
-  percentage: 60
+  percentage:
   color: secondary
