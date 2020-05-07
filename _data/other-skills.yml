@@ -1,7 +1,7 @@
 - name: LaTeX
-  percentage: 80
+  percentage:
   color: info
 
 - name: Tableau
-  percentage: 70
+  percentage:
   color: success
