@@ -5,3 +5,7 @@
 - name: Tableau
   percentage:
   color: success
+
+- name: Gurobi
+  percentage:
+  color: green
