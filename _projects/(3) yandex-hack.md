@@ -20,9 +20,9 @@ Further Details:
 - [Özyeğin University Blog](https://www.ozyegin.edu.tr/tr/etkinlikler/12278/yandex-hackathon-ozu)
 - [Liri](https://erenatsiz.github.io/liri/)
 
-![Alt text](https://github.com/koftezz/koftezz.github.io/blob/master/assets/yandex_team.png?raw=true caption="The Team")
+![Alt text](https://github.com/koftezz/koftezz.github.io/blob/master/assets/yandex_team.PNG?raw=true caption="The Team")
 
 
 <p class="text-center">
-{% include elements/button.html link="https://raw.githubusercontent.com/koftezz/koftezz.github.io/master/assets/zbo_yandex.jpeg" text="See More" %}
+{% include elements/button.html link="https://raw.githubusercontent.com/koftezz/koftezz.github.io/master/assets/zbo_yandex.jpg" text="See More" %}
 </p>
