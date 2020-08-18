@@ -16,8 +16,8 @@ Spruce up boring conversations with our LIRI sound and LIRI music libraries - ex
 colleagues: [Eren Atsiz](https://github.com/erenatsiz), [Volkan Selim Cantürk](https://www.linkedin.com/in/vscanturk/)
 
 Further Details:
-- https://yandex.com/company/blog/turkish-digital-music-hackathon-helps-spur-innovation-in-yandex-music
-- https://www.ozyegin.edu.tr/tr/etkinlikler/12278/yandex-hackathon-ozu
+- [Yandex Blog](https://yandex.com/company/blog/turkish-digital-music-hackathon-helps-spur-innovation-in-yandex-music)
+- [Özyeğin University Blog](https://www.ozyegin.edu.tr/tr/etkinlikler/12278/yandex-hackathon-ozu)
 - [Liri](https://erenatsiz.github.io/liri/)
 
 ![Alt text](https://github.com/koftezz/koftezz.github.io/blob/master/assets/yandex_team.png?raw=true caption="The Team")
