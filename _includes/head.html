@@ -12,7 +12,7 @@
    <span class="ityped-cursor"></span>
     </div>
     <ul id="typing-carousel-data">
-      {{ range site.description }}
+      {{ range range .Site.Params.description }}
 
   <title>{{ site.title }}</title>
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
