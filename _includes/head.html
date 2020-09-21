@@ -9,11 +9,15 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <!--meta name="description" content="{{ site.description }}" -->
-  <ul id="typing-carousel-data">
-      {{ range .Site.Params.description }}
-      <li>{{ . }}</li>
-      {{ end }}
-    </ul>
+  <div class="typing-carousel">
+      <span id="ityped" class="ityped"></span>
+      <span class="ityped-cursor"></span>
+   </div>
+   <ul id="typing-carousel-data">
+    {{ range .site.description }}
+    <li>{{ . }}</li>
+    {{ end }}
+  </ul>
 
   <title>{{ site.title }}</title>
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/assets/favicon.ico' | relative_url }}">
